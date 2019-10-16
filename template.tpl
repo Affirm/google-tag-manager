@@ -1,19 +1,16 @@
 ﻿___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
-
 Template Gallery Developer Terms of Service available at
-
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
-
 Google may provide), as modified from time to time.
+
 
 ___INFO___
 
 {
   "displayName": "Affirm",
-  "description": "",
-  "categories": ["MARKETING", "UTILITY"],
+  "description": "This app will add Affirm promotional messaging or an Affirm VCN checkout to your site by configuring HTML IDs/classes where the data should appear.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
@@ -1037,6 +1034,12 @@ var injectScript = require('injectScript');
 var queryPermission = require('queryPermission');
 
 var affirmJS = "";
+
+/**
+ * affirm.js and merchant_config.js are protected under the Affirm copyright
+ * Copyright (c) Affirm 2019
+ */
+
 if(data.affirmEnv === "sandbox"){
   
   affirmJS = "https://cdn1-sandbox.affirm.com/js/v2/affirm.js";
@@ -1160,4 +1163,4 @@ if (queryPermission('inject_script', merchantJS)){
 
 ___NOTES___
 
-Created on 8/22/2019, 1:43:50 PM
+Created on 10/16/2019, 3:24:04 PM
