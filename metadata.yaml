@@ -3,3 +3,5 @@ documentation: ​"https://docs.affirm.com/Integrate_Affirm/Tag_Managers/Google_
 versions:
   - sha: 4fedadb3dd66ec4824af05d1633157262f9dd1f2
     changeNotes: Initial release.
+  - sha: 0d9d9998eb90ea177116c409b3f6ea0f0972c4aa
+    changeNotes: Added a copyright 
