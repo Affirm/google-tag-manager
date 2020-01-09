@@ -7,4 +7,4 @@ Affirm has been invited to join the Google Tag Manager Tag Vendor Program which 
 
 ## How to Update
 
-To update the Google template you need to make changes in the Google Template Editor within Google Tag Manager, export the template and then upload the file to the [Affirm Google Tag Manager repository](https://github.com/Affirm/google-tag-manager). The metadata data must be updated to reflect the new version, please refer to these [guidelines](https://developers.google.com/tag-manager/templates/gallery#update_your_template). The changes will take effect in less than 24 hours.
+To update the Google template you need to make changes in the Google Template Editor within Google Tag Manager, export the template and then upload the file to the Affirm Google Tag Manager repository. The metadata data must be updated to reflect the new version, please refer to these [guidelines](https://developers.google.com/tag-manager/templates/gallery#update_your_template). The changes will take effect in less than 24 hours.
