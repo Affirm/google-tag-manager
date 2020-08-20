@@ -1010,7 +1010,7 @@ ___WEB_PERMISSIONS___
               },
               {
                 "type": 1,
-                "string": "https://affirm.github.io/example-code/gtm/merchant_config.js"
+                "string": "https://cdn-assets.affirm.com/channel/gtm/merchant.js"
               }
             ]
           }
@@ -1047,7 +1047,7 @@ if(data.affirmEnv === "sandbox"){
   affirmJS = "https://cdn1.affirm.com/js/v2/affirm.js";
 }
 
-var merchantJS = "https://affirm.github.io/example-code/gtm/merchant_config.js";
+var merchantJS = "https://cdn-assets.affirm.com/channel/gtm/merchant.js";
 
 var merchant_config = {
   	promoMessaging:{
