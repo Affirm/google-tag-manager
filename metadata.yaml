@@ -1,9 +1,9 @@
 homepage: ​"docs.affirm.com"​,
 documentation: ​"https://docs.affirm.com/Integrate_Affirm/Tag_Managers/Google_Tag_Manager_Custom_Template"​,
 versions:
+  - sha: aee02808d8a47734e76f6d13a6ed014c36d4da83
+    changeNotes: Updated the asset file
   - sha: 0d9d9998eb90ea177116c409b3f6ea0f0972c4aa
     changeNotes: Added a copyright 
   - sha: 4fedadb3dd66ec4824af05d1633157262f9dd1f2
     changeNotes: Initial release.
-  - sha: aee02808d8a47734e76f6d13a6ed014c36d4da83
-    changeNotes: Updated the asset file
